@@ -1,7 +1,7 @@
 // Jdem zagruzki DOM
 document.addEventListener('DOMContentLoaded',function() {
     const ctaButton = 
-    document.getElementById ('cta-btn'); //ispravleno button na btn
+    document.getElementById ('cta-btn');
     const navLinks =
     document.querySelectorAll ('.nav-links a');
 
@@ -27,8 +27,6 @@ document.addEventListener('DOMContentLoaded',function() {
                 });
             });
     });
-
-
 
 // Prostoy effect pri skrole
 window.addEventListener( 'sscroll',
