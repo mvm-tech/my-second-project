@@ -118,6 +118,7 @@ body {
     padding: 2rem 0;
 }
 
+
 /* Адаптивность */
 @media (max-width: 768px) {
     .nav {
